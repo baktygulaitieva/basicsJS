@@ -1,38 +1,4 @@
-//console.log("hello world!");
 
-//var user = "baku";
-//console.log(user);
-
-//user = "john";
-//console.log(user);
-
-//let user = "goal";
-//console.log(user);
-
-//userName
-
-//let userName = 'baku "baku" ';
-//console.log(userName);
-
-//userName = "baku";
-//userName = "baku";
-
-//let a = 18;
-//let b = 23;
-//console.log(a + b);
-
-//boolean
-//let isMarried = false;
-//console.log(isMarried);
-
-//NULL
-//let car = null;
-//car = 'BMW';
-
-//Symbol
-//let symbol = Symbol();
-
-//data
 //let today = new Date();
 //console.log(today);
 
